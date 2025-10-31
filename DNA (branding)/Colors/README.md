@@ -2,13 +2,14 @@
 
 > **Official color palette for GGEP™ Network — Global geek-enthusiasts platform™**
 
-🦄 GGEP Palette Showcase
+## 🦄 GGEP Palette Showcase
 
 ## 🎯 Philosophy
 
 The **"Debug / Deploy"** palette embodies the dual nature of the developer's world:
 
 - **🕶️ Dark Theme (Debug)** - Focus, concentration, deep code immersion, night mode, bug hunting in system depths
+
 - **☀️ Light Theme (Deploy)** - Clarity, readiness, production-ready code, day mode, sterile development environment
 
 Both themes are unified by accent colors inspired by geek culture: syntax highlighting, video game notifications, and classic computer hardware aesthetics.
