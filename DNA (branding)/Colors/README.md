@@ -2,7 +2,7 @@
 
 > **Official color palette for GGEP™ Network — Global geek-enthusiasts platform™**
 
-![GGEP Palette Showcase](https://via.placeholder.com/1200x400/0A0A12/E6E6F0?text=Debug+%2F+Deploy+Palette+-+GGEP%E2%84%A2+Network)
+![🦄 GGEP Palette Showcase]
 
 ## 🎯 Philosophy
 
