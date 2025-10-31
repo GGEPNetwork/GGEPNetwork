@@ -1,71 +1,71 @@
-# GGEP Design System: Debug / Deploy Palette
+# Система дизайна GGEP: Палитра «Отладка / Развертывание»
 
-> **Official color palette for GGEP™ Network — Global geek-enthusiasts platform™**
+> **Официальная цветовая палитра для GGEP™ Network — Глобальной платформы для гиков-энтузиастов™**
 
-## 🦄 GGEP Palette Showcase
+## 🦄 Демонстрация палитры GGEP
 
-## 🎯 Philosophy
+## 🎯 Философия
 
-The **"Debug / Deploy"** palette embodies the dual nature of the developer's world:
+Палитра **«Отладка / Развертывание»** олицетворяет двойственную природу мира разработчика:
 
-- **🕶️ Dark Theme (Debug)** - Focus, concentration, deep code immersion, night mode, bug hunting in system depths
+- **🕶️ Тёмная тема (Отладка)** — Фокус, концентрация, глубокое погружение в код, ночной режим, поиск ошибок в недрах системы.
 
-- **☀️ Light Theme (Deploy)** - Clarity, readiness, production-ready code, day mode, sterile development environment
+- **☀️ Светлая тема (Развертывание)** — Ясность, готовность, код, готовый к продакшену, дневной режим, стерильная среда разработки.
 
-Both themes are unified by accent colors inspired by geek culture: syntax highlighting, video game notifications, and classic computer hardware aesthetics.
+Обе темы объединены акцентными цветами, вдохновленными гик-культурой: подсветкой синтаксиса, уведомлениями из видеоигр и эстетикой классического компьютерного оборудования.
 
-## 🎨 Color Palette
+## 🎨 Цветовая палитра
 
-### Core Neutral Colors
+### Основные нейтральные цвета
 
-#### 🕶️ Dark Theme (Debug)
-| Purpose | HEX | Usage |
-|---------|-----|-------|
-| Background | #0A0A12 | Main dark background |
-| Surface | #151521 | Cards, panels, containers |
-| Surface Elevated | #1E1E2D | Nested elements, hover states |
-| Border/Divider | #2E2E3F | Separators, thin borders |
-| Text Primary | #E6E6F0 | Main text content |
-| Text Secondary | #A0A0B0 | Secondary text, labels |
-| Text Disabled | #59596A | Disabled elements, icons |
+#### 🕶️ Тёмная тема (Отладка)
+| Назначение | HEX | Использование |
+|--------|----|-----------|
+| Фон | #0A0A12 | Основной тёмный фон |
+| Поверхность | #151521 | Карточки, панели, контейнеры |
+| Приподнятая поверхность | #1E1E2D | Вложенные элементы, состояния при наведении |
+| Граница/Разделитель | #2E2E3F | Разделители, тонкие границы |
+| Основной текст | #E6E6F0 | Основное текстовое содержимое |
+| Вторичный текст | #A0A0B0 | Второстепенный текст, метки |
+| Неактивный текст | #59596A | Неактивные элементы, иконки |
 
-#### ☀️ Light Theme (Deploy)
-| Purpose | HEX | Usage |
-|---------|-----|-------|
-| Background | #FCFCFD | Main light background |
-| Surface | #FFFFFF | Cards, panels, containers |
-| Surface Elevated | #F5F5F7 | Differentiated areas |
-| Border/Divider | #E1E1E6 | Separators, thin borders |
-| Text Primary | #151521 | Main text content |
-| Text Secondary | #4A4A5A | Secondary text, labels |
-| Text Disabled | #9A9AAB | Disabled elements, icons |
+#### ☀️ Светлая тема (Развертывание)
+| Назначение | HEX | Использование |
+|--------|----|-----------|
+| Фон | #FCFCFD | Основной светлый фон |
+| Поверхность | #FFFFFF | Карточки, панели, контейнеры |
+| Приподнятая поверхность | #F5F5F7 | Выделенные области |
+| Граница/Разделитель | #E1E1E6 | Разделители, тонкие границы |
+| Основной текст | #151521 | Основное текстовое содержимое |
+| Вторичный текст | #4A4A5A | Второстепенный текст, метки |
+| Неактивный текст | #9A9AAB | Неактивные элементы, иконки |
 
-### 🎯 Accent Colors (Universal)
+### 🎯 Акцентные цвета (Универсальные)
 
-| Purpose | HEX | Geek Association |
-|---------|-----|------------------|
-| Primary | #3D7BFF | **"Hyperlink Blue"** - CLI, browsers, trust |
-| Success | #00CC88 | **"Deploy Green"** - Ready checks, passed tests |
-| Warning | #FF9933 | **"Warning Orange"** - Compilation, low battery |
-| Error | #FF4D4D | **"Critical Hit Red"** - Syntax errors, build failures |
-| Info | #33CCCC | **"Debug Cyan"** - IDE debuggers, tooltips |
-| Special | #9966FF | **"Epic Purple"** - Legendary items, const variables |
+| Назначение | HEX | Ассоциация с гик-культурой |
+|--------|----|------------------------|
+| Основной | #3D7BFF | **«Синий гиперссылки»** — CLI, браузеры, доверие |
+| Успех | #00CC88 | **«Зелёный развертывания»** — Проверки готовности, пройденные тесты |
+| Предупреждение | #FF9933 | **«Оранжевый предупреждения»** — Компиляция, низкий заряд батареи |
+| Ошибка | #FF4D4D | **«Критический красный»** — Синтаксические ошибки, сбои сборки |
+| Информация | #33CCCC | **«Голубой отладки»** — Отладчики в IDE, всплывающие подсказки |
+| Особый | #9966FF | **«Эпический фиолетовый»** — Легендарные предметы, const переменные |
 
-### 🔧 Additional Colors
+### 🔧 Дополнительные цвета
 
-| Purpose | Light | Dark | Description |
-|---------|-------|------|-------------|
-| Code Background | #F8F8FA | #1A1A28 | Code block backgrounds |
-| Code Comment | #9A9AAB | #59596A | Code comments styling |
-| Console/CLI | #00FF88 | #00FF88 | Classic terminal green |
+| Назначение | Светлый | Тёмный | Описание |
+|--------|-------|------|---------|
+| Фон кода | #F8F8FA | #1A1A28 | Фон блоков кода |
+| Комментарий в коде | #9A9AAB | #59596A | Стиль комментариев в коде |
+| Консоль/CLI | #00FF88 | #00FF88 | Классический зелёный терминала |
 
-## 🚀 Implementation
+## 🚀 Реализация
 
-### CSS Custom Properties
+### Пользовательские CSS-свойства
 
 ```css
 :root[data-theme="light"] {
-  /* Neutral Colors */
+  /* Нейтральные цвета */
   --bg-primary: #FCFCFD;
   --bg-surface: #FFFFFF;
   --bg-surface-elevated: #F5F5F7;
@@ -74,7 +74,7 @@ Both themes are unified by accent colors inspired by geek culture: syntax highli
   --text-secondary: #4A4A5A;
   --text-disabled: #9A9AAB;
   
-  /* Accent Colors */
+  /* Акцентные цвета */
   --accent-primary: #3D7BFF;
   --accent-primary-hover: #2B5FD9;
   --accent-success: #00CC88;
@@ -83,14 +83,14 @@ Both themes are unified by accent colors inspired by geek culture: syntax highli
   --accent-info: #33CCCC;
   --accent-special: #9966FF;
   
-  /* Additional */
+  /* Дополнительные */
   --code-bg: #F8F8FA;
   --code-comment: #9A9AAB;
   --console-green: #00FF88;
 }
 
 :root[data-theme="dark"] {
-  /* Neutral Colors */
+  /* Нейтральные цвета */
   --bg-primary: #0A0A12;
   --bg-surface: #151521;
   --bg-surface-elevated: #1E1E2D;
@@ -99,7 +99,7 @@ Both themes are unified by accent colors inspired by geek culture: syntax highli
   --text-secondary: #A0A0B0;
   --text-disabled: #59596A;
   
-  /* Accent Colors (same as light) */
+  /* Акцентные цвета (такие же, как в светлой) */
   --accent-primary: #3D7BFF;
   --accent-primary-hover: #2B5FD9;
   --accent-success: #00CC88;
@@ -108,14 +108,14 @@ Both themes are unified by accent colors inspired by geek culture: syntax highli
   --accent-info: #33CCCC;
   --accent-special: #9966FF;
   
-  /* Additional */
+  /* Дополнительные */
   --code-bg: #1A1A28;
   --code-comment: #59596A;
   --console-green: #00FF88;
 }
 ```
 
-### Usage Examples
+### Примеры использования
 
 ```css
 .button-primary {
@@ -141,30 +141,30 @@ Both themes are unified by accent colors inspired by geek culture: syntax highli
 }
 ```
 
-## ✅ Accessibility
+## ✅ Доступность
 
-All color combinations meet WCAG AA standards with significant margin:
+Все цветовые комбинации соответствуют стандартам WCAG AA с запасом:
 
-- **Text/BG Contrast**: > 7:1 for primary content
+- **Контраст Текст/Фон**: > 7:1 для основного контента
   
-- **Color Blind Safe**: Accent colors distinguishable for all vision types
+- **Безопасно для дальтоников**: Акцентные цвета различимы для всех типов зрения
   
-- **Focus Indicators**: Clear visual focus states
+- **Индикаторы фокуса**: Четкие визуальные состояния фокуса
 
-## 🎯 Design Principles
+## 🎯 Принципы дизайна
 
-1. **Semantic Naming**: Use variable names by purpose, not color
+1.  **Семантические имена**: Используйте имена переменных по назначению, а не по цвету.
 
-2. **Consistency**: Maintain identical accent colors across themes
+2.  **Согласованность**: Сохраняйте идентичные акцентные цвета во всех темах.
 
-3. **Geek Heritage**: Colors reflect programming and gaming culture
+3.  **Наследие гиков**: Цвета отражают культуру программирования и гейминга.
 
-4. **Professional Polish**: Balanced for both enterprise and community use
+4.  **Профессиональная полировка**: Сбалансированы для использования как в корпоративной среде, так и в сообществе.
 
-## 🔄 Theme Switching
+## 🔄 Переключение темы
 
 ```javascript
-// Simple theme toggle
+// Простое переключение темы
 function toggleTheme() {
   const currentTheme = document.documentElement.getAttribute('data-theme');
   const newTheme = currentTheme === 'light' ? 'dark' : 'light';
@@ -172,26 +172,26 @@ function toggleTheme() {
   localStorage.setItem('ggep-theme', newTheme);
 }
 
-// Initialize theme
+// Инициализация темы
 const savedTheme = localStorage.getItem('ggep-theme') || 'light';
 document.documentElement.setAttribute('data-theme', savedTheme);
 ```
 
-## 📱 Supported Platforms
+## 📱 Поддерживаемые платформы
 
-- Web Applications
-- Mobile Apps (React Native, Flutter)
-- Desktop Applications
-- Documentation Sites
-- Marketing Materials
-- API Documentation
+- Веб-приложения
+- Мобильные приложения (React Native, Flutter)
+- Десктопные приложения
+- Сайты документации
+- Маркетинговые материалы
+- Документация API
 
 ---
 
-**GGEP Network — Global geek-enthusiasts platform™**
+**GGEP Network — Глобальная платформа для гиков-энтузиастов™**
 
-*Built by geeks, for geeks. Debug together, deploy forever.* 🚀
+*Создано гиками, для гиков. Отлаживаем вместе, развертываем навсегда.* 🚀
 
---- 
+---
 
-*© 2025 GGEP™ Network. All rights reserved. The Debug/Deploy palette is proprietary to GGEP Network.*
+*© 2025 GGEP™ Network. Все права защищены. Палитра «Отладка/Развертывание» является собственностью GGEP Network.*
