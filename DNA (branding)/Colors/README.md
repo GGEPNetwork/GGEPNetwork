@@ -2,7 +2,7 @@
 
 > **Official color palette for GGEP™ Network — Global geek-enthusiasts platform™**
 
-![🦄 GGEP Palette Showcase]
+!🦄 GGEP Palette Showcase
 
 ## 🎯 Philosophy
 
