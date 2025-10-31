@@ -188,4 +188,4 @@ document.documentElement.setAttribute('data-theme', savedTheme);
 
 --- 
 
-*\© 2024 GGEP™ Network. All rights reserved. The Debug/Deploy palette is proprietary to GGEP Network.*
+*© 2025 GGEP™ Network. All rights reserved. The Debug/Deploy palette is proprietary to GGEP Network.*
