@@ -63,7 +63,7 @@ Both themes are unified by accent colors inspired by geek culture: syntax highli
 
 ### CSS Custom Properties
 
-css
+```css
 :root[data-theme="light"] {
   /* Neutral Colors */
   --bg-primary: #FCFCFD;
@@ -113,11 +113,11 @@ css
   --code-comment: #59596A;
   --console-green: #00FF88;
 }
-
+```
 
 ### Usage Examples
 
-css
+```css
 .button-primary {
   background-color: var(--accent-primary);
   color: white;
@@ -139,26 +139,31 @@ css
   border: 1px solid var(--border-primary);
   color: var(--text-primary);
 }
-
+```
 
 ## ✅ Accessibility
 
 All color combinations meet WCAG AA standards with significant margin:
 
 - **Text/BG Contrast**: > 7:1 for primary content
+  
 - **Color Blind Safe**: Accent colors distinguishable for all vision types
+  
 - **Focus Indicators**: Clear visual focus states
 
 ## 🎯 Design Principles
 
 1. **Semantic Naming**: Use variable names by purpose, not color
+
 2. **Consistency**: Maintain identical accent colors across themes
+
 3. **Geek Heritage**: Colors reflect programming and gaming culture
+
 4. **Professional Polish**: Balanced for both enterprise and community use
 
 ## 🔄 Theme Switching
 
-javascript
+```javascript
 // Simple theme toggle
 function toggleTheme() {
   const currentTheme = document.documentElement.getAttribute('data-theme');
@@ -170,7 +175,7 @@ function toggleTheme() {
 // Initialize theme
 const savedTheme = localStorage.getItem('ggep-theme') || 'light';
 document.documentElement.setAttribute('data-theme', savedTheme);
-
+```
 
 ## 📱 Supported Platforms
 
