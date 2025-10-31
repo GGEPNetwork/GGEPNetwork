@@ -1,4 +1,4 @@
-# GGEP Logo Guidelines: Unicorn Emoji Logo
+# GGEP™ Logo Guidelines: Unicorn Emoji Logo
 
 > **Official logo documentation for GGEP™ Network — Global geek-enthusiasts platform™**
 
@@ -8,13 +8,13 @@ The GGEP logo combines modern tech symbolism with mythical inspiration, represen
 
 ### Primary Logo
 
-🦄 GGEP
+🦄 GGEP™
 
 
 ### Alternative Versions
 
 🦄 GGEP™
-🦄 GGEP Network
+🦄 GGEP™ Network
 🦄 GGEP™ Network — Global geek-enthusiasts platform™
 
 
@@ -240,4 +240,4 @@ The GGEP logo is proprietary and may not be used without explicit permission exc
 
 ---
 
-*\© 2024 GGEP™ Network. All rights reserved. The GGEP unicorn logo is proprietary to GGEP Network.*
+*© 2025 GGEP™ Network. All rights reserved. The GGEP unicorn logo is proprietary to GGEP Network.*
